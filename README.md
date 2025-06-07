@@ -38,7 +38,7 @@ I'm Achmad Choerul Ramdhani, an Informatics Engineering student at Politeknik Ne
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,php,js,webpack,postman,laravel,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,php,js,react,webpack,postman,laravel,git,github,vscode)](https://skillicons.dev)
 
 ###
 
